@@ -1,0 +1,8 @@
+module.exports.founderDetailsVallidation = require("./founderDetailsService.vallidation")
+module.exports.cafeDetailsVallidation = require("./cafeDetails.validation")
+module.exports.stateVallidation = require("./state.vallidation")
+module.exports.areaVallidation = require("./area.vallidation")
+module.exports.userVallidation = require("./user.vallidation")
+module.exports.menuVallidation = require("./menu.vallidation")
+module.exports.orderDetailsVallidation = require("./orderDetails.vallidation")
+module.exports.addItemVallidation = require("./addItem.vallidation")

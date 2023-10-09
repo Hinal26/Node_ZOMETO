@@ -1,0 +1,8 @@
+module.exports.founderDetailsController = require("./founderDetails.controller")
+module.exports.cafeDetailsController = require("./cafeDetails.controller")
+module.exports.stateController = require("./state.controller")
+module.exports.areaController = require("./area.controller")
+module.exports.userController = require("./user.controller")
+module.exports.menuController = require("./menu.controller")
+module.exports.orderDetailsController = require("./orderDetails.controller")
+module.exports.addItemController = require("./addItem.controller")

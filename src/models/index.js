@@ -1,0 +1,8 @@
+module.exports.FounderDetails = require("./founderDetails.model")
+module.exports.CafeDetails = require("./cafeDetails.model")
+module.exports.State = require("./state.model")
+module.exports.Area = require("./area.model")
+module.exports.User = require("./user.model")
+module.exports.Menu = require("./menu.model")
+module.exports.OrderDetails = require("./orderDetails.modele")
+module.exports.AddItem = require("./addItem.model")
